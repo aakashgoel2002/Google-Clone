@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.detail{
+    transform: translate(55%,5%);
+    margin-left: 5%;
+}
+.container{
+    position: absolute;
+    top: 58%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+}
+ul.thumb{
+    margin: 0 auto;
+    padding: 0;
+    float: left;
+}
+ul.thumb li{
+    list-style: none;
+    margin: 5px;
+    width: 75px;
+    height: 75px;
+    border: 1px solid rgba(0,0,0,.2);
+    overflow: hidden;
+}
+ul.thumb li img{
+    width: 100%;
+}
+.imgBox{
+    float: left;
+    width: 550px;
+    height: 550px;
+    margin: 5px;
+    border: 1px solid rgba(0,0,0,.2);
+    overflow: hidden;
+    margin-left: 3%;
+}
+.imgBox img{
+    width: 100%;
+
+}
