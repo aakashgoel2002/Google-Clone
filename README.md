@@ -1,3 +1,3 @@
-Google Clone
+# Google Clone
 
-Basic google.com clone Project, developed just to enhacne the skillset.
+**Basic google.com clone Project, developed just to enhance the skillset.**
