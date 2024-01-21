@@ -1,18 +1,0 @@
-[2024-01-17 20:07:40] [INFO ] 3452 - set_log_dir=[C:\Users\AH_GL\AppData\Local\Temp\Wondershare\NativePush\]
-[2024-01-17 20:07:40] [INFO ] 3452 - collect, set sensors project=[UA_Nativepush_Win]
-[2024-01-17 20:07:40] [INFO ] 3452 - collect, set track id=[UA-Nativepush-Win].
-[2024-01-17 20:07:40] [INFO ] 3452 - collect, set user id=[0].
-[2024-01-17 20:07:40] [INFO ] 3452 - check_upgrade_utf8.
-[2024-01-17 20:07:40] [INFO ] 3452 - check, param:{"pid":14416,"version":"1.0.0.8","brand":"wondershare","wsid":"0","platform":"win_x64"}
-[2024-01-17 20:07:40] [INFO ] 3452 - collect, init, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
-[2024-01-17 20:07:40] [INFO ] 3452 - sensors init result=[1].
-[2024-01-17 20:07:40] [INFO ] 3452 - collect, regist type=[0]
-[2024-01-17 20:07:40] [INFO ] 3452 - collect, pid=[14416], old_ver=[1.0.0.8], new_ver=[], force=[0], silence=[0], full_pkg=[1]
-[2024-01-17 20:07:40] [INFO ] 3452 - collect, check begin
-[2024-01-17 20:07:41] [INFO ] 3452 - get user token, pid=[14416], pver=[1.0.0.8], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
-[2024-01-17 20:07:43] [INFO ] 3452 - req check, server err=[0], strResponse:{"code":0,"msg":"","data":null}
-[2024-01-17 20:07:43] [INFO ] 3452 - process check result.
-[2024-01-17 20:07:43] [INFO ] 3452 - collect, pid=[14416], old_ver=[1.0.0.8], new_ver=[], force=[0], silence=[0], full_pkg=[1]
-[2024-01-17 20:07:43] [INFO ] 3452 - collect, check end, code=[0]
-[2024-01-17 20:07:45] [INFO ] 3452 - send data, type=[1], errcode=[0]
-[2024-01-17 20:07:45] [INFO ] 3452 - get user token, pid=[14416], pver=[1.0.0.8], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
