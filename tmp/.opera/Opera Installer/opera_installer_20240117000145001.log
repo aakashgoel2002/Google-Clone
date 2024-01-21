@@ -1,0 +1,38 @@
+[0117/000145.017:INFO:installer_main.cc(453)] Opera installer starting - version 106.0.4998.41 Stable
+[0117/000145.017:INFO:installer_main.cc(456)] Command line: "C:\Users\AH_GL\AppData\Local\Programs\Opera\106.0.4998.41\installer.exe" --backend --initial-pid=332 --install --import-browser-data=0 --enable-stats=1 --enable-installer-stats=1 --consent-given=0 --general-interests=0 --general-location=0 --personalized-content=0 --personalized-ads=0 --launchopera=0 --installfolder="C:\Users\AH_GL\AppData\Local\Programs\Opera" --profile-folder --language=en --setdefaultbrowser=0 --pintotaskbar=0 --pintostartmenu=0 --run-at-startup=1 --server-tracking-data=server_tracking_data --show-intro-overlay --package-dir="C:\Users\AH_GL\AppData\Local\Temp\.opera\C2748D71E48C\CUsersAH_GLAppDataLocalProgramsOpera\installing" --inside-package --session-guid=a9d587a1-918e-4fea-86a3-96d94ae8244f --autoupdate --silent --install-subfolder=106.0.4998.41
+[0117/000145.017:INFO:installer_main.cc(475)] Install folder from command line: C:\Users\AH_GL\AppData\Local\Programs\Opera
+[0117/000145.017:INFO:installer_main.cc(478)] Uninstall:0
+[0117/000145.017:INFO:installer_main.cc(479)] Silent:1
+[0117/000145.017:INFO:installer_main.cc(480)] Run Immediately0
+[0117/000145.017:INFO:installer_main.cc(482)] Backend1
+[0117/000145.017:INFO:installer_main.cc(483)] Inside package1
+[0117/000145.017:INFO:installer_main.cc(484)] Autoupdate:1
+[0117/000145.017:INFO:resource_l10n_handler.cc(113)] Language not in the available languages list: 
+[0117/000145.017:INFO:resource_l10n_handler.cc(119)] Trying language from system preferred list: en-US
+[0117/000145.017:INFO:resource_l10n_handler.cc(162)] Retrying after adjustments: en-US
+[0117/000145.017:INFO:resource_l10n_handler.cc(119)] Trying language from system preferred list: en
+[0117/000145.064:INFO:settings_impl.cc(1329)] Install folder set: C:\Users\AH_GL\AppData\Local\Programs\Opera
+[0117/000145.064:INFO:settings_impl.cc(1384)] Operation: 2
+[0117/000145.064:INFO:installer.cc(196)] Beginning installation
+[0117/000145.064:INFO:permission_grantor_impl.cc(134)] Write privileges for install folder: 1
+[0117/000145.157:INFO:installation_package_impl.cc(172)] Package is ready
+[0117/000145.157:INFO:installer_steps.cc(496)] Removing installed files.
+[0117/000145.173:ERROR:delete_file_operation.cc(102)] Attempt to open the file for writing failed: The process cannot access the file because it is being used by another process. (0x20)
+[0117/000145.173:ERROR:delete_file_operation.cc(106)] File removal failed
+[0117/000145.173:INFO:delete_file_step.cc(32)] Deleting file C:\Users\AH_GL\AppData\Local\Programs\Opera\106.0.4998.41\files_list
+[0117/000145.173:INFO:delete_file_step.cc(32)] Deleting file C:\Users\AH_GL\AppData\Local\Programs\Opera\106.0.4998.41\root_files_list
+[0117/000145.173:INFO:installer_steps.cc(583)] Removing old files from installation root
+[0117/000145.189:INFO:delete_file_step.cc(32)] Deleting file C:\Users\AH_GL\AppData\Local\Programs\Opera\opera_new.exe
+[0117/000145.189:ERROR:delete_file_operation.cc(102)] Attempt to open the file for writing failed: The process cannot access the file because it is being used by another process. (0x20)
+[0117/000145.189:ERROR:delete_file_operation.cc(106)] File removal failed
+[0117/000145.189:INFO:clean_registry_step.cc(47)] Cleaning up registry
+[0117/000145.204:INFO:installer_steps.cc(256)] Setting up the registry
+[0117/000145.220:INFO:update_shortcuts_step.cc(153)] Updating shortcuts
+[0117/000145.361:INFO:write_installer_prefs_step.cc(56)] Writing installer prefs to C:\Users\AH_GL\AppData\Local\Programs\Opera\installer_prefs.json
+[0117/000145.361:INFO:installer_steps.cc(698)] Preserving previous installer status.
+[0117/000145.361:INFO:install_extra_apps_step.cc(51)] Installing extra apps
+[0117/000145.361:INFO:protocol_handler_setup_impl.cc(103)] Setting up file handlers for the current user.
+[0117/000145.361:INFO:installer_steps.cc(397)] Creating scheduled task
+[0117/000145.392:INFO:installer.cc(619)] Finalizing successful installation
+[0117/000145.392:INFO:installer.cc(850)] Installation succeeded
+[0117/000145.392:INFO:backend_process_installer_runner_impl.cc(187)] Installer backend exiting

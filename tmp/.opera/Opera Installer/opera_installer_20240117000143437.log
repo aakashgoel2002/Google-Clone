@@ -1,0 +1,24 @@
+[0117/000143.453:INFO:installer_main.cc(453)] Opera installer starting - version 106.0.4998.41 Stable
+[0117/000143.453:INFO:installer_main.cc(456)] Command line: "C:\Users\AH_GL\AppData\Local\Temp\.opera\C2748D71E48C\CUsersAH_GLAppDataLocalProgramsOpera\installing\installer.exe" --backend --install --import-browser-data=0 --enable-stats=1 --enable-installer-stats=1 --consent-given=0 --general-interests=0 --general-location=0 --personalized-content=0 --personalized-ads=0 --launchopera=0 --installfolder="C:\Users\AH_GL\AppData\Local\Programs\Opera" --profile-folder --language=en --setdefaultbrowser=0 --pintotaskbar=0 --pintostartmenu=0 --run-at-startup=1 --show-intro-overlay --server-tracking-data=server_tracking_data --initial-pid=332 --package-dir="C:\Users\AH_GL\AppData\Local\Temp\.opera\C2748D71E48C\CUsersAH_GLAppDataLocalProgramsOpera\installing" --inside-package --session-guid=a9d587a1-918e-4fea-86a3-96d94ae8244f --autoupdate --silent --wait-for-package --initial-proc-handle=1806000000000000
+[0117/000143.453:INFO:installer_main.cc(475)] Install folder from command line: C:\Users\AH_GL\AppData\Local\Programs\Opera
+[0117/000143.453:INFO:installer_main.cc(478)] Uninstall:0
+[0117/000143.453:INFO:installer_main.cc(479)] Silent:1
+[0117/000143.453:INFO:installer_main.cc(480)] Run Immediately0
+[0117/000143.453:INFO:installer_main.cc(482)] Backend1
+[0117/000143.453:INFO:installer_main.cc(483)] Inside package1
+[0117/000143.453:INFO:installer_main.cc(484)] Autoupdate:1
+[0117/000143.453:INFO:resource_l10n_handler.cc(113)] Language not in the available languages list: 
+[0117/000143.453:INFO:resource_l10n_handler.cc(119)] Trying language from system preferred list: en-US
+[0117/000143.453:INFO:resource_l10n_handler.cc(162)] Retrying after adjustments: en-US
+[0117/000143.453:INFO:resource_l10n_handler.cc(119)] Trying language from system preferred list: en
+[0117/000143.484:INFO:settings_impl.cc(1329)] Install folder set: C:\Users\AH_GL\AppData\Local\Programs\Opera
+[0117/000143.484:INFO:settings_impl.cc(1384)] Operation: 2
+[0117/000143.484:INFO:installer.cc(196)] Beginning installation
+[0117/000143.484:INFO:permission_grantor_impl.cc(134)] Write privileges for install folder: 1
+[0117/000143.609:INFO:installation_package_impl.cc(70)] Need to wait for actual package
+[0117/000144.331:INFO:installation_package_impl.cc(172)] Package is ready
+[0117/000144.892:INFO:backend_process_launcher_impl.cc(121)] Running installer from the package with command line: "C:\Users\AH_GL\AppData\Local\Programs\Opera\106.0.4998.41\installer.exe" --backend --initial-pid=332 --install --import-browser-data=0 --enable-stats=1 --enable-installer-stats=1 --consent-given=0 --general-interests=0 --general-location=0 --personalized-content=0 --personalized-ads=0 --launchopera=0 --installfolder="C:\Users\AH_GL\AppData\Local\Programs\Opera" --profile-folder --language=en --setdefaultbrowser=0 --pintotaskbar=0 --pintostartmenu=0 --run-at-startup=1 --server-tracking-data=server_tracking_data --show-intro-overlay --package-dir="C:\Users\AH_GL\AppData\Local\Temp\.opera\C2748D71E48C\CUsersAH_GLAppDataLocalProgramsOpera\installing" --inside-package --session-guid=a9d587a1-918e-4fea-86a3-96d94ae8244f --autoupdate --silent --install-subfolder=106.0.4998.41
+[0117/000145.439:INFO:installer.cc(850)] Installation succeeded
+[0117/000145.439:INFO:backend_process_installer_runner_impl.cc(187)] Installer backend exiting
+[0117/000145.439:ERROR:ipc_sender.cc(113)] Cannot write to mailslot: Reached the end of the file. (0x26)
+[0117/000145.439:ERROR:ipc_sender.cc(113)] Cannot write to mailslot: Reached the end of the file. (0x26)

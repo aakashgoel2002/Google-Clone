@@ -1,0 +1,103 @@
+01:20:28 [ERR][      Workbench]: Console redirection failed.
+01:20:28 [INF][      Workbench]: Starting up Workbench
+01:20:28 [INF][      Workbench]: Current environment:
+	Command line: "C:\Program Files\MySQL\MySQL Workbench 8.0\MySQLWorkbench.exe" 
+	CurrentDirectory: C:\Program Files\MySQL\MySQL Workbench 8.0
+	HasShutdownStarted: False
+	OSVersion: Microsoft Windows NT 6.2.9200.0
+	SystemDirectory: C:\Windows\system32
+	TickCount: 1228591062
+	UserInteractive: True
+	Version: 4.0.30319.42000
+	WorkingSet: 37584896
+01:20:28 [INF][      Workbench]: Environment variables:
+	COMPUTERNAME = ABHAY-CHANANA
+	USERPROFILE = C:\Users\abhay
+	HOMEPATH = \Users\abhay
+	LOCALAPPDATA = C:\Users\abhay\AppData\Local
+	PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+	PROCESSOR_ARCHITECTURE = AMD64
+	Path = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\abhay\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\abhay\AppData\Local\Programs\Python\Python312\;C:\Users\abhay\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin;C:\Users\abhay\AppData\Local\Microsoft\WindowsApps;C:\Users\abhay\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Users\abhay\AppData\Local\Programs\Hyper\resources\bin;C:\Users\abhay\AppData\Roaming\npm
+	CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+	ProgramFiles(x86) = C:\Program Files (x86)
+	PROCESSOR_LEVEL = 23
+	EFC_19292 = 1
+	LOGONSERVER = \\ABHAY-CHANANA
+	PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+	HOMEDRIVE = C:
+	SystemRoot = C:\Windows
+	ChocolateyInstall = C:\ProgramData\chocolatey
+	ChocolateyLastPathUpdate = 133496473158721226
+	ALLUSERSPROFILE = C:\ProgramData
+	DriverData = C:\Windows\System32\Drivers\DriverData
+	APPDATA = C:\Users\abhay\AppData\Roaming
+	PROCESSOR_REVISION = 1801
+	USERNAME = abhay
+	CommonProgramW6432 = C:\Program Files\Common Files
+	OneDrive = C:\Users\abhay\OneDrive
+	CommonProgramFiles = C:\Program Files\Common Files
+	OS = Windows_NT
+	USERDOMAIN_ROAMINGPROFILE = ABHAY-CHANANA
+	PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+	ComSpec = C:\Windows\system32\cmd.exe
+	SESSIONNAME = Console
+	USERDOMAIN = ABHAY-CHANANA
+	SystemDrive = C:
+	TEMP = C:\Users\abhay\AppData\Local\Temp
+	ProgramFiles = C:\Program Files
+	NUMBER_OF_PROCESSORS = 8
+	TMP = C:\Users\abhay\AppData\Local\Temp
+	ProgramData = C:\ProgramData
+	ProgramW6432 = C:\Program Files
+	windir = C:\Windows
+	JAVA_HOME = C:\Users\abhay\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.9.9-hotspot\
+	PUBLIC = C:\Users\Public
+01:20:28 [INF][      Workbench]: Current version given by meta info is: 8.0.36
+01:20:28 [INF][      Workbench]: Setting PATH to: C:\Windows\system32;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\abhay\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin;C:\Users\abhay\AppData\Local\Microsoft\WindowsApps;C:\Users\abhay\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;;C:\Users\abhay\AppData\Local\Programs\Hyper\resources\bin;C:\Users\abhay\AppData\Roaming\npm
+01:20:28 [INF][ mforms managed]: Initializing mforms wrapper
+01:20:28 [INF][   WBContext UI]: Initializing workbench context UI with these values:
+	base dir: C:\Program Files\MySQL\MySQL Workbench 8.0
+	plugin path: C:\Program Files\MySQL\MySQL Workbench 8.0
+	struct path: 
+	module path: C:\Program Files\MySQL\MySQL Workbench 8.0/modules
+	library path: C:\Program Files\MySQL\MySQL Workbench 8.0
+	user data dir: C:\Users\abhay\AppData\Roaming\MySQL\Workbench
+	open at start: 
+	open type: 
+	run at startup: 
+	run type: 
+	Force SW rendering: No
+	Force OpenGL: No
+	quit when done: No
+01:20:28 [INF][      WBContext]: WbContext::init
+01:20:28 [INF][            WBA]: Looking for extension modules for WBA...
+01:20:28 [INF][            WBA]: 0 extension modules found
+01:20:29 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+01:20:29 [WRN][            grt]: C:\Users\abhay\AppData\Roaming\MySQL\Workbench\connections.xml:17: link '{47DF50C7-BC42-4759-8F92-447940EE036D}' <object GrtObject> key=owner could not be resolved
+01:20:29 [WRN][            grt]: Duplicate plugin name wb.tools.cmdlineClient	There is more than one plugin with the name wb.tools.cmdlineClient (in PyWbUtils and PyWbUtils).
+01:20:30 [INF][      WBContext]: System info:
+ 	MySQL Workbench Community (GPL) for Windows version 8.0.36 CE build 3737333 (64 bit)
+	Configuration Directory: C:\Users\abhay\AppData\Roaming\MySQL\Workbench
+	Data Directory: C:\Program Files\MySQL\MySQL Workbench 8.0
+	Cairo Version: 1.17.6
+	OS: Microsoft Windows 10 Home Single Language
+	CPU: 8x AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx  , 13.9 GiB RAM
+	Active video adapter AMD Radeon(TM) Vega 8 Graphics
+	Installed video RAM: -2048 MB
+	Current video mode: 1920 x 1080 x 4294967296 colors
+	Used bit depth: 32
+	Driver version: 26.20.14054.1001
+	Installed display drivers: C:\Windows\System32\DriverStore\FileRepository\u0356148.inf_amd64_49a476cb3d4116cb\B355990\aticfx64.dll,C:\Windows\System32\DriverStore\FileRepository\u0356148.inf_amd64_49a476cb3d4116cb\B355990\aticfx64.dll,C:\Windows\System32\DriverStore\FileRepository\u0356148.inf_amd64_49a476cb3d4116cb\B355990\aticfx64.dll,C:\Windows\System32\DriverStore\FileRepository\u0356148.inf_amd64_49a476cb3d4116cb\B355990\amdxc64.dll
+	Current user language: English (United States)
+
+01:20:30 [INF][      Workbench]: UI is up
+01:20:31 [INF][      Workbench]: Running the application
+01:20:33 [ERR][  GRTDispatcher]: exception in grt execute_task, continuing: Exception: Access denied for user 'root'@'localhost' (using password: NO)
+01:20:33 [ERR][  GRTDispatcher]: worker: task 'execute sql queries' has failed with error:.Access denied for user 'root'@'localhost' (using password: NO)
+01:20:37 [INF][SQL Editor Form]: Opened connection 'Local instance MySQL80' to MySQL Community Server - GPL version 8.0.36
+01:20:38 [INF][        WQE.net]: Launching SQL IDE
+01:20:39 [INF][        WQE.net]: SQL IDE UI is ready
+01:20:54 [INF][        WQE.net]: Shutting down SQL editor (Local instance MySQL80)
+01:20:54 [INF][      Workbench]: Shutting down Workbench
+01:20:54 [INF][ mforms managed]: Shutting down mforms wrapper
+01:20:54 [INF][      Workbench]: Done

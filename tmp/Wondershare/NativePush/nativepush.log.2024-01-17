@@ -1,0 +1,183 @@
+[2024-01-03 18:10:12] [INFO] 43508 - version=[1.0.0.8]
+[2024-01-03 18:10:14] [INFO] 27504 - sensors, on timer callback.
+[2024-01-03 18:10:14] [INFO] 27504 - sensors init project=[UA_Nativepush_Win], did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], result=[1].
+[2024-01-03 18:10:23] [INFO] 43508 - upgrade, check ok! need_upgrade=[0], new_version=[], path=[].
+[2024-01-03 18:10:23] [INFO] 43508 - init toast notification.
+[2024-01-03 18:10:23] [INFO] 43508 - init db.
+[2024-01-03 18:10:23] [INFO] 43508 - init cloud notification manager.
+[2024-01-03 18:10:23] [INFO] 43508 - init http service.
+[2024-01-03 18:10:23] [INFO] 43508 - init APIs.
+[2024-01-03 18:10:23] [INFO] 43508 - http server, start.
+[2024-01-03 18:10:23] [INFO] 43508 - http server, listening for connections.
+[2024-01-03 18:10:25] [INFO] 1328 - cloud mgr, on timer callback.
+[2024-01-03 18:10:25] [INFO] 1328 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-03 18:10:25] [INFO] 1328 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-03 18:10:25] [INFO] 1328 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-03 18:10:27] [INFO] 15848 - sensors, on timer callback.
+[2024-01-03 18:10:29] [INFO] 1328 - cloud mgr, parse notification, count=[0].
+[2024-01-03 18:10:29] [INFO] 1328 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[0].
+[2024-01-03 18:10:31] [INFO] 14572 - sensors, on timer callback.
+[2024-01-04 18:10:24] [INFO] 42808 - cloud mgr, on timer callback.
+[2024-01-04 18:10:24] [INFO] 42808 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-04 18:10:24] [INFO] 42808 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-04 18:10:24] [INFO] 42808 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-04 18:10:26] [INFO] 38096 - sensors, on timer callback.
+[2024-01-04 18:10:28] [INFO] 42808 - cloud mgr, parse notification, count=[0].
+[2024-01-04 18:10:28] [INFO] 42808 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[0].
+[2024-01-04 18:10:30] [INFO] 13564 - sensors, on timer callback.
+[2024-01-07 23:59:51] [INFO] 31308 - cloud mgr, on timer callback.
+[2024-01-07 23:59:51] [INFO] 31308 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-07 23:59:51] [INFO] 31308 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-07 23:59:51] [INFO] 31308 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-07 23:59:51] [ERROR] 31308 - http post, failed! url=[https://pc-api.wondershare.cc/v3/user/client/token], code=[6].
+[2024-01-07 23:59:51] [ERROR] 31308 - curl error=[6].
+[2024-01-07 23:59:51] [WARN] 31308 - switch host=[https://pc-api.300624.com].
+[2024-01-07 23:59:52] [ERROR] 31308 - http post, failed! url=[https://pc-api.300624.com/v3/user/client/token], code=[6].
+[2024-01-07 23:59:52] [ERROR] 31308 - get usertoken failed! error=[6].
+[2024-01-07 23:59:52] [ERROR] 31308 - cloud mgr, parse notification, response:
+[2024-01-07 23:59:52] [INFO] 31308 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[-1].
+[2024-01-07 23:59:53] [INFO] 28340 - cloud mgr, on timer callback.
+[2024-01-07 23:59:53] [INFO] 28340 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-07 23:59:53] [INFO] 28340 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-07 23:59:53] [INFO] 28340 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-07 23:59:53] [ERROR] 28340 - http post, failed! url=[https://pc-api.300624.com/v3/user/client/token], code=[6].
+[2024-01-07 23:59:53] [ERROR] 28340 - curl error=[6].
+[2024-01-07 23:59:53] [WARN] 28340 - switch host=[https://pc-api.wondershare.cc].
+[2024-01-07 23:59:53] [ERROR] 28340 - http post, failed! url=[https://pc-api.wondershare.cc/v3/user/client/token], code=[6].
+[2024-01-07 23:59:53] [ERROR] 28340 - get usertoken failed! error=[6].
+[2024-01-07 23:59:53] [ERROR] 28340 - cloud mgr, parse notification, response:
+[2024-01-07 23:59:53] [INFO] 28340 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[-1].
+[2024-01-07 23:59:55] [INFO] 10132 - cloud mgr, on timer callback.
+[2024-01-07 23:59:55] [INFO] 10132 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-07 23:59:55] [INFO] 10132 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-07 23:59:55] [INFO] 10132 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-07 23:59:55] [ERROR] 10132 - http post, failed! url=[https://pc-api.wondershare.cc/v3/user/client/token], code=[6].
+[2024-01-07 23:59:55] [ERROR] 10132 - curl error=[6].
+[2024-01-07 23:59:55] [WARN] 10132 - switch host=[https://pc-api.300624.com].
+[2024-01-07 23:59:55] [ERROR] 10132 - http post, failed! url=[https://pc-api.300624.com/v3/user/client/token], code=[6].
+[2024-01-07 23:59:55] [ERROR] 10132 - get usertoken failed! error=[6].
+[2024-01-07 23:59:55] [ERROR] 10132 - cloud mgr, parse notification, response:
+[2024-01-07 23:59:55] [INFO] 10132 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[-1].
+[2024-01-07 23:59:57] [INFO] 5612 - sensors, on timer callback.
+[2024-01-07 23:59:58] [ERROR] 5612 - sensors flush failed! event=[np_msg_query].
+[2024-01-07 23:59:58] [ERROR] 5612 - sensors flush failed! event=[np_msg_query].
+[2024-01-07 23:59:58] [ERROR] 5612 - sensors flush failed! event=[np_msg_query].
+[2024-01-07 23:59:58] [ERROR] 5612 - sensors flush failed! event=[np_msg_query].
+[2024-01-07 23:59:58] [ERROR] 5612 - sensors flush failed! event=[np_msg_query].
+[2024-01-07 23:59:58] [ERROR] 5612 - sensors flush failed! event=[np_msg_query].
+[2024-01-08 21:11:40] [INFO] 36016 - cloud mgr, on timer callback.
+[2024-01-08 21:11:40] [INFO] 36016 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-08 21:11:40] [INFO] 36016 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-08 21:11:40] [INFO] 36016 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-08 21:11:40] [ERROR] 36016 - http post, failed! url=[https://pc-api.300624.com/v3/user/client/token], code=[6].
+[2024-01-08 21:11:40] [ERROR] 36016 - curl error=[6].
+[2024-01-08 21:11:40] [WARN] 36016 - switch host=[https://pc-api.wondershare.cc].
+[2024-01-08 21:11:40] [ERROR] 36016 - http post, failed! url=[https://pc-api.wondershare.cc/v3/user/client/token], code=[6].
+[2024-01-08 21:11:40] [ERROR] 36016 - get usertoken failed! error=[6].
+[2024-01-08 21:11:40] [ERROR] 36016 - cloud mgr, parse notification, response:
+[2024-01-08 21:11:40] [INFO] 36016 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[-1].
+[2024-01-08 21:11:42] [INFO] 27772 - sensors, on timer callback.
+[2024-01-08 21:11:42] [ERROR] 27772 - sensors flush failed! event=[np_msg_query].
+[2024-01-08 21:11:42] [ERROR] 27772 - sensors flush failed! event=[np_msg_query].
+[2024-01-09 18:10:24] [INFO] 16264 - cloud mgr, on timer callback.
+[2024-01-09 18:10:24] [INFO] 16264 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-09 18:10:24] [INFO] 16264 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-09 18:10:24] [INFO] 16264 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-09 18:10:26] [INFO] 20992 - sensors, on timer callback.
+[2024-01-09 18:10:27] [INFO] 16264 - cloud mgr, parse notification, count=[0].
+[2024-01-09 18:10:27] [INFO] 16264 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[0].
+[2024-01-09 18:10:28] [INFO] 37696 - sensors, on timer callback.
+[2024-01-10 23:03:18] [INFO] 34092 - cloud mgr, on timer callback.
+[2024-01-10 23:03:18] [INFO] 34092 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-10 23:03:18] [INFO] 34092 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-10 23:03:18] [INFO] 34092 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-10 23:03:18] [ERROR] 34092 - http post, failed! url=[https://pc-api.wondershare.cc/v3/user/client/token], code=[6].
+[2024-01-10 23:03:18] [ERROR] 34092 - curl error=[6].
+[2024-01-10 23:03:18] [WARN] 34092 - switch host=[https://pc-api.300624.com].
+[2024-01-10 23:03:18] [ERROR] 34092 - http post, failed! url=[https://pc-api.300624.com/v3/user/client/token], code=[6].
+[2024-01-10 23:03:18] [ERROR] 34092 - get usertoken failed! error=[6].
+[2024-01-10 23:03:18] [ERROR] 34092 - cloud mgr, parse notification, response:
+[2024-01-10 23:03:18] [INFO] 34092 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[-1].
+[2024-01-10 23:03:21] [INFO] 36296 - sensors, on timer callback.
+[2024-01-10 23:03:21] [ERROR] 36296 - sensors flush failed! event=[np_msg_query].
+[2024-01-10 23:03:21] [ERROR] 36296 - sensors flush failed! event=[np_msg_query].
+[2024-01-11 22:47:11] [INFO] 7716 - cloud mgr, on timer callback.
+[2024-01-11 22:47:11] [INFO] 7716 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-11 22:47:11] [INFO] 7716 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-11 22:47:11] [INFO] 7716 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-11 22:47:11] [ERROR] 7716 - http post, failed! url=[https://pc-api.300624.com/v3/user/client/token], code=[6].
+[2024-01-11 22:47:11] [ERROR] 7716 - curl error=[6].
+[2024-01-11 22:47:11] [WARN] 7716 - switch host=[https://pc-api.wondershare.cc].
+[2024-01-11 22:47:11] [ERROR] 7716 - http post, failed! url=[https://pc-api.wondershare.cc/v3/user/client/token], code=[6].
+[2024-01-11 22:47:11] [ERROR] 7716 - get usertoken failed! error=[6].
+[2024-01-11 22:47:11] [ERROR] 7716 - cloud mgr, parse notification, response:
+[2024-01-11 22:47:11] [INFO] 7716 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[-1].
+[2024-01-11 22:47:13] [INFO] 25416 - sensors, on timer callback.
+[2024-01-11 22:47:14] [ERROR] 25416 - sensors flush failed! event=[np_msg_query].
+[2024-01-11 22:47:14] [ERROR] 25416 - sensors flush failed! event=[np_msg_query].
+[2024-01-12 19:45:35] [INFO] 30172 - cloud mgr, on timer callback.
+[2024-01-12 19:45:35] [INFO] 30172 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-12 19:45:35] [INFO] 30172 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-12 19:45:35] [INFO] 30172 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-12 19:45:35] [ERROR] 30172 - http post, failed! url=[https://pc-api.wondershare.cc/v3/user/client/token], code=[6].
+[2024-01-12 19:45:35] [ERROR] 30172 - curl error=[6].
+[2024-01-12 19:45:35] [WARN] 30172 - switch host=[https://pc-api.300624.com].
+[2024-01-12 19:45:35] [ERROR] 30172 - http post, failed! url=[https://pc-api.300624.com/v3/user/client/token], code=[6].
+[2024-01-12 19:45:35] [ERROR] 30172 - get usertoken failed! error=[6].
+[2024-01-12 19:45:35] [ERROR] 30172 - cloud mgr, parse notification, response:
+[2024-01-12 19:45:35] [INFO] 30172 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[-1].
+[2024-01-12 19:45:37] [INFO] 15952 - sensors, on timer callback.
+[2024-01-12 19:45:38] [ERROR] 15952 - sensors flush failed! event=[np_msg_query].
+[2024-01-12 19:45:38] [ERROR] 15952 - sensors flush failed! event=[np_msg_query].
+[2024-01-13 18:41:20] [INFO] 41372 - cloud mgr, on timer callback.
+[2024-01-13 18:41:20] [INFO] 41372 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-13 18:41:20] [INFO] 41372 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-13 18:41:20] [INFO] 41372 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-13 18:41:20] [ERROR] 41372 - http post, failed! url=[https://pc-api.300624.com/v3/user/client/token], code=[6].
+[2024-01-13 18:41:20] [ERROR] 41372 - curl error=[6].
+[2024-01-13 18:41:20] [WARN] 41372 - switch host=[https://pc-api.wondershare.cc].
+[2024-01-13 18:41:20] [ERROR] 41372 - http post, failed! url=[https://pc-api.wondershare.cc/v3/user/client/token], code=[6].
+[2024-01-13 18:41:20] [ERROR] 41372 - get usertoken failed! error=[6].
+[2024-01-13 18:41:20] [ERROR] 41372 - cloud mgr, parse notification, response:
+[2024-01-13 18:41:20] [INFO] 41372 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[-1].
+[2024-01-13 18:41:22] [INFO] 13032 - sensors, on timer callback.
+[2024-01-15 11:23:00] [INFO] 14852 - cloud mgr, on timer callback.
+[2024-01-15 11:23:00] [INFO] 14852 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-15 11:23:00] [INFO] 14852 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-15 11:23:00] [INFO] 14852 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-15 11:23:00] [ERROR] 14852 - http post, failed! url=[https://pc-api.wondershare.cc/v3/user/client/token], code=[6].
+[2024-01-15 11:23:00] [ERROR] 14852 - curl error=[6].
+[2024-01-15 11:23:00] [WARN] 14852 - switch host=[https://pc-api.300624.com].
+[2024-01-15 11:23:00] [ERROR] 14852 - http post, failed! url=[https://pc-api.300624.com/v3/user/client/token], code=[6].
+[2024-01-15 11:23:00] [ERROR] 14852 - get usertoken failed! error=[6].
+[2024-01-15 11:23:00] [ERROR] 14852 - cloud mgr, parse notification, response:
+[2024-01-15 11:23:00] [INFO] 14852 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[-1].
+[2024-01-15 11:23:02] [INFO] 41628 - sensors, on timer callback.
+[2024-01-15 11:23:02] [ERROR] 41628 - sensors flush failed! event=[np_msg_query].
+[2024-01-15 11:23:02] [ERROR] 41628 - sensors flush failed! event=[np_msg_query].
+[2024-01-15 18:24:45] [INFO] 46060 - cloud mgr, on timer callback.
+[2024-01-15 18:24:45] [INFO] 46060 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-15 18:24:45] [INFO] 46060 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-15 18:24:45] [INFO] 46060 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-15 18:24:45] [ERROR] 46060 - http post, failed! url=[https://pc-api.300624.com/v3/user/client/token], code=[6].
+[2024-01-15 18:24:45] [ERROR] 46060 - curl error=[6].
+[2024-01-15 18:24:45] [WARN] 46060 - switch host=[https://pc-api.wondershare.cc].
+[2024-01-15 18:24:45] [ERROR] 46060 - http post, failed! url=[https://pc-api.wondershare.cc/v3/user/client/token], code=[6].
+[2024-01-15 18:24:45] [ERROR] 46060 - get usertoken failed! error=[6].
+[2024-01-15 18:24:45] [ERROR] 46060 - cloud mgr, parse notification, response:
+[2024-01-15 18:24:45] [INFO] 46060 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[-1].
+[2024-01-15 18:24:47] [INFO] 37620 - sensors, on timer callback.
+[2024-01-15 18:24:47] [ERROR] 37620 - sensors flush failed! event=[np_msg_query].
+[2024-01-15 18:24:47] [ERROR] 37620 - sensors flush failed! event=[np_msg_query].
+[2024-01-16 18:34:02] [INFO] 46988 - cloud mgr, on timer callback.
+[2024-01-16 18:34:02] [INFO] 46988 - cbm, on query msg, pid=[1901], pstatus=[3], uid=[0].
+[2024-01-16 18:34:02] [INFO] 46988 - query notification, did=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}], pid=[1901], pver=[1.0.0.0], wsid=[0]
+[2024-01-16 18:34:02] [INFO] 46988 - get user token, pid=[1901], pver=[1.0.0.0], sn=[{a64c65f7-443e-44a9-b63e-cedbb7a93ce2G}]
+[2024-01-16 18:34:02] [ERROR] 46988 - http post, failed! url=[https://pc-api.wondershare.cc/v3/user/client/token], code=[6].
+[2024-01-16 18:34:02] [ERROR] 46988 - curl error=[6].
+[2024-01-16 18:34:02] [WARN] 46988 - switch host=[https://pc-api.300624.com].
+[2024-01-16 18:34:02] [ERROR] 46988 - http post, failed! url=[https://pc-api.300624.com/v3/user/client/token], code=[6].
+[2024-01-16 18:34:02] [ERROR] 46988 - get usertoken failed! error=[6].
+[2024-01-16 18:34:02] [ERROR] 46988 - cloud mgr, parse notification, response:
+[2024-01-16 18:34:02] [INFO] 46988 - cbm, on receive msg, pid=[1901], pstatus=[3], uid=[0], nid=[], err=[-1].
+[2024-01-16 18:34:04] [INFO] 36316 - sensors, on timer callback.
